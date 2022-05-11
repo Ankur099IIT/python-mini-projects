@@ -1,3 +1,5 @@
+
+# i dont know what this code does.
 import requests as rq
 from bs4 import BeautifulSoup
 
