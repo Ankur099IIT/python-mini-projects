@@ -1,8 +1,10 @@
+# this checking the functionality of git and how to contribute in the git project
+
 # Import Required Library
 from tkinter import *
 import datetime
 import time
-import winsound
+import playsound
 from threading import *
 
 # Create Object
